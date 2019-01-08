@@ -1,2 +1,2 @@
 # whitelies
-Example tribute page made in pure html/css
+Example page made in pure html/css
